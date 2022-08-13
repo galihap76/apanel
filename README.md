@@ -15,6 +15,7 @@ python3 main.py -u <www.example.com>
 # Install
 ```
 git clone https://github.com/galihap76/apanel.git
+cd apanel
 pip install -r requirements.txt
 ```
 
