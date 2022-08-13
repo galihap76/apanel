@@ -1,3 +1,6 @@
+# Apanel
+Apanel is mean (A)dmin (Panel) you can do scan admin panel of a site. I modified the source code from bangladesh black hat hacker you can find <a href="https://github.com/bdblackhat/admin-panel-finder">here</a>. If you a programmer please read my source code because i has put on comment in program that mean you know what can do this program.
+
 # Install
 ```
 git clone https://github.com/galihap76/apanel.git
