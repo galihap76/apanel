@@ -132,12 +132,12 @@ _____  ___________    ____   ____ |  |
                 # take the version on JSON file
                 metadata = req_meta.text
                 json_data = loads(metadata)
-                version_collector = json_data['version']
+                version_apanel = json_data['version']
 
                 # if version is new
-                if version.parse(version_collector) > version.parse(VERSION):
+                if version.parse(version_apanel) > version.parse(VERSION):
                     # give alert
-                    print(f'[!] New update available : {version_collector}')
+                    print(f'[!] New update available : {version_apanel}')
 
                     # ask update for user
                     ask_update = input('[!] Do you want to update?[y/n]: ')
