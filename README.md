@@ -3,7 +3,7 @@
 [![GPLv3](https://img.shields.io/badge/license-GPLv3-blue)](https://img.shields.io/badge/license-GPLv3-blue)
 [![Python3](https://img.shields.io/badge/language-Python3-red)](https://img.shields.io/badge/language-Python3-red)
 
-Apanel is mean (A)dmin (Panel) you can do scan admin panel of a site. I modified the source code from bangladesh black hat hacker you can find <a href="https://github.com/bdblackhat/admin-panel-finder">here</a>. If you a programmer please read my source code because i has put on comment in program that mean you know what can do this program.
+Apanel is mean (A)dmin (Panel) you can do scan admin panel of a site. I modified the source code from bangladesh black hat hacker you can find <a href="https://github.com/bdblackhat/admin-panel-finder">here</a>. If you a programmer please read my source code because i already put on comment in program that mean you know what can do this program.
 
 ![carbon](https://user-images.githubusercontent.com/83481679/184478673-e0f38559-967f-4c11-89ce-17e4fe5220f2.png)
 
