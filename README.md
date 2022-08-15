@@ -25,6 +25,3 @@ pip install -r requirements.txt
 
 # Screenshot
 ![apanel](https://user-images.githubusercontent.com/83481679/184478172-3daf5843-3949-4d17-96bf-74fb881745a2.png)
-
-# Contributing 💡
-Contributing are welcome, if you found bug or add new feature please fork this repo and pull request. I will approved if suitable on add new feature.
