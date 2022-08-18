@@ -17,11 +17,11 @@ pip install -r requirements.txt
 
 # Usage
 ```
-python3 main.py -u <www.example.com>
+python3 main.py -u <https://www.example.com/>
 ```
 
 # Screenshot 📸
 ![apanel](https://user-images.githubusercontent.com/83481679/184478172-3daf5843-3949-4d17-96bf-74fb881745a2.png)
 
 # Video 📹
-[![asciicast](https://asciinema.org/a/YDh5FvklfQcdfZ7K7XPF0GmuT.svg)](https://asciinema.org/a/YDh5FvklfQcdfZ7K7XPF0GmuT)
+[![asciicast](https://asciinema.org/a/2kXn7hH1Af37QEqaroGSMboQF.svg)](https://asciinema.org/a/2kXn7hH1Af37QEqaroGSMboQF)
