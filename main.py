@@ -1,14 +1,14 @@
 #!/usr/bin/env python3 
 
 # version apanel
-VERSION = '1.0'
+VERSION = '1.1'
 
 # modules
 import argparse, time, requests, re
 from json import loads
 from packaging import version
 from urllib.request import Request, urlopen
-from urllib.error import HTTPError, URLError
+from urllib.error import URLError
 
 # argparse
 parser = argparse.ArgumentParser()
@@ -94,7 +94,7 @@ _____  ___________    ____   ____ |  |
                         break
 
                     # make variabel req_url 
-                    req_url = f"https://{url}/{panel}"
+                    req_url = f"{url}{panel}"
 
                     # check if URL is valid
                     if(self.isValidURL(req_url) == True):
@@ -118,7 +118,7 @@ _____  ___________    ____   ____ |  |
 
                 # this when user do CTRL-C 
                 except KeyboardInterrupt:
-                    print("^C")
+                    print("[-] Exit")
                     break
 
         # check if user want to update this tool
