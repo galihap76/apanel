@@ -22,6 +22,3 @@ python3 main.py -u <target url>
 
 # Screenshot 📸
 ![apanel](https://user-images.githubusercontent.com/83481679/185466863-70529864-876c-4311-9a58-8e466d900837.png)
-
-# Video 📹
-[![asciicast](https://asciinema.org/a/2kXn7hH1Af37QEqaroGSMboQF.svg)](https://asciinema.org/a/2kXn7hH1Af37QEqaroGSMboQF)
